@@ -2,7 +2,7 @@
 
 🎓 Engineering Student 
 
-I am an engineering student with a strong interest in **web development, networking, and applied technology solutions**, particularly in the **agriculture and smart systems domain**. I enjoy designing structured, efficient, and user-focused applications, and I continuously work on improving both my technical and problem-solving skills.
+I am an engineering student with a strong interest in **web development, networking, and applied technology solutions**. I enjoy designing structured, efficient, and user-focused applications, and I continuously work on improving both my technical and problem-solving skills.
 
 ---
 
