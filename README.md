@@ -1,98 +1,72 @@
-# 👋 Hi, I'm Esraa
+👋 Hi, I'm Esraa
+🎓 Engineering Student
 
-🎓 Engineering Student 
+I am an engineering student passionate about AI, smart data solutions, and system architecture. I enjoy combining modern web development with machine learning to build intelligent, efficient, and user-focused applications.
 
-I am an engineering student with a strong interest in **web development, networking, and applied technology solutions**. I enjoy designing structured, efficient, and user-focused applications, and I continuously work on improving both my technical and problem-solving skills.
+🧠 About Me
+🎓 Engineering cycle student at ESPRIT
 
----
+🤖 Passionate about Artificial Intelligence & Machine Learning
 
-## 🧠 About Me
+🌾 Working on smart data platforms and agricultural tech solutions
 
-- 🎓 Engineering cycle student at **ESPRIT**
-- 💻 Passionate about **Web Development & System Design**
-- 🌾 Working on web platforms related to **agriculture and smart data solutions**
-- 🔧 Interested in **full-stack development**, **networking**, and **software architecture**
-- 📚 Always learning and improving through practical projects
+🔧 Interested in full-stack development, data science, and software architecture
 
----
+📚 Always learning and applying new tech through practical projects
 
-## 🛠️ Technical Skills
+🛠️ Technical Skills
+🤖 AI & Data Science
+Python (Pandas, Scikit-Learn, PyTorch)
 
-### 🌐 Web Development
-- HTML5, CSS3, JavaScript  
-- PHP, Symfony  
-- React (component-based UI development)
-- MVC architecture  
+Machine Learning classification & clustering
 
-### 🗄️ Databases
-- MySQL  
-- Database design & CRUD operations  
+Real-time data processing & IoT integration
 
-### 🧩 Software & Tools
-- Git & GitHub  
-- UML (class diagrams, design concepts)  
-- RESTful concepts  
-- Linux (basic system & network configuration)
+🌐 Web & Software Development
+PHP, Symfony, JavaScript
 
-### 🌐 Networking
-- IP addressing & VLSM  
-- Routing & NAT  
-- GNS3, Cisco Packet Tracer  
-- Network configuration & troubleshooting  
+React (component-based UI development)
 
----
+MySQL & database design
 
-## 🚀 Projects & Experience
+Git, GitHub & UML design
 
-- 🌾 **Agriculture Web Platform**  
-  - Design and customization of templates  
-  - Integration of databases  
-  - Forum system with client/expert interaction  
-  - CRUD functionality for questions and answers  
+🌐 Networking & Systems
+IP addressing, routing & NAT
 
-- 💬 **Web Forum System**
-  - User and expert interfaces  
-  - Image upload for clients  
-  - Structured HTML/CSS design  
-  - Backend logic using PHP  
+GNS3 & Cisco Packet Tracer
 
-- 🌐 **Network Labs & Simulations**
-  - Router and switch configuration  
-  - Addressing plans  
-  - Testing connectivity and security  
+Linux (basic system & network configuration)
 
----
+🚀 Projects & Experience
+🌾 Smart Agri-Tech Platform
 
-## 🎯 Goals
+Integration of IoT sensor nodes and real-time environmental monitoring
 
-- Build scalable and reliable web applications  
-- Strengthen backend and system architecture skills  
-- Apply technology to real-world problems (especially agriculture & sustainability)  
-- Grow as a professional engineer and developer  
+Application of Machine Learning (K-Means clustering & Random Forest classification) for automated insights
 
----
+Web platform with interactive forums and CRUD functionality
 
-## 📫 Contact
+💬 Web Forum & Data Systems
 
-- 💼 GitHub: *You are here*
-- 📧 Open to collaboration on technical and academic projects  
+User and expert interfaces with backend logic using PHP
 
----
+Structured databases for efficient content management
 
-⭐ *Always motivated to learn, build, and improve.*
+🌐 Network Labs & Simulations
 
+Router and switch configuration, addressing plans, and connectivity testing
 
-<!--
-**esraaa-b/esraaa-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Goals
+Build intelligent, scalable, and data-driven web applications
 
-Here are some ideas to get you started:
+Bridge the gap between Artificial Intelligence and real-world problem solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Grow as a professional software engineer and AI practitioner
+
+📫 Contact
+💼 GitHub: You are here
+
+📧 Open to collaboration on AI, web, and academic projects
+
+⭐ Always motivated to learn, build, and innovate with AI.
