@@ -1,72 +1,95 @@
-👋 Hi, I'm Esraa
-🎓 Engineering Student
+# 👋 Hi, I'm Esraa
 
-I am an engineering student passionate about AI, smart data solutions, and system architecture. I enjoy combining modern web development with machine learning to build intelligent, efficient, and user-focused applications.
+🎓 Engineering Student 
 
-🧠 About Me
-🎓 Engineering cycle student at ESPRIT
+I am an engineering student with a strong interest in **AI, Machine Learning, web development, and smart data solutions**. I enjoy designing intelligent, efficient, and user-focused applications, and I continuously work on applying advanced algorithms to real-world problems.
 
-🤖 Passionate about Artificial Intelligence & Machine Learning
+---
 
-🌾 Working on smart data platforms and agricultural tech solutions
+## 🧠 About Me
 
-🔧 Interested in full-stack development, data science, and software architecture
+- 🎓 Engineering cycle student at **ESPRIT**
+- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
+- 🌾 Working on smart data platforms related to **agriculture and IoT solutions**
+- 🔧 Interested in **full-stack development**, **data science**, and **software architecture**
+- 📚 Always learning and improving through practical engineering projects
 
-📚 Always learning and applying new tech through practical projects
+---
 
-🛠️ Technical Skills
-🤖 AI & Data Science
-Python (Pandas, Scikit-Learn, PyTorch)
+## 🛠️ Technical Skills
 
-Machine Learning classification & clustering
+### 🤖 Artificial Intelligence & Data Science
+- Python (Pandas, Scikit-Learn, PyTorch)  
+- Machine Learning algorithms (Classification, Clustering)  
+- Data preprocessing, analysis & feature engineering  
+- Smart IoT sensor data integration  
 
-Real-time data processing & IoT integration
+### 🌐 Web & Database Development
+- PHP, Symfony, JavaScript, React  
+- MySQL, Oracle SQL, Firebase Firestore  
+- MVC architecture & RESTful APIs  
 
-🌐 Web & Software Development
-PHP, Symfony, JavaScript
+### 🧩 Software & Tools
+- Git & GitHub  
+- UML (class diagrams, design concepts)  
+- Linux & Docker basics  
 
-React (component-based UI development)
+### 🌐 Networking
+- IP addressing & VLSM  
+- Routing & NAT  
+- GNS3, Cisco Packet Tracer  
+- Network configuration & troubleshooting  
 
-MySQL & database design
+---
 
-Git, GitHub & UML design
+## 🚀 Projects & Experience
 
-🌐 Networking & Systems
-IP addressing, routing & NAT
+- 🌾 **Smart Agriculture Platform (Gabès bin ydik)**  
+  - Integration of IoT sensor nodes for real-time environmental monitoring  
+  - Implementation of Machine Learning models (K-Means & Random Forest) for automated decision-making  
+  - Full-stack web integration with interactive forums and data visualization  
 
-GNS3 & Cisco Packet Tracer
+- 💬 **Web & Data Platforms**  
+  - Development of web forum architectures using PHP and Symfony  
+  - Database schema design and dynamic data management  
 
-Linux (basic system & network configuration)
+- 🌐 **Network Labs & Simulations**  
+  - Router and switch configuration  
+  - Addressing plans  
+  - Testing connectivity and security  
 
-🚀 Projects & Experience
-🌾 Smart Agri-Tech Platform
+---
 
-Integration of IoT sensor nodes and real-time environmental monitoring
+## 🎯 Goals
 
-Application of Machine Learning (K-Means clustering & Random Forest classification) for automated insights
+- Build scalable, data-driven, and AI-powered applications  
+- Bridge the gap between **Machine Learning** and practical software engineering  
+- Apply technology to real-world challenges (especially agriculture & sustainability)  
+- Grow as a professional AI engineer and developer  
 
-Web platform with interactive forums and CRUD functionality
+---
 
-💬 Web Forum & Data Systems
+## 📫 Contact
 
-User and expert interfaces with backend logic using PHP
+- 💼 GitHub: *You are here*
+- 📧 Open to collaboration on technical, AI, and academic projects  
 
-Structured databases for efficient content management
+---
 
-🌐 Network Labs & Simulations
+⭐ *Always motivated to learn, build, and innovate with AI.*
 
-Router and switch configuration, addressing plans, and connectivity testing
 
-🎯 Goals
-Build intelligent, scalable, and data-driven web applications
+<!--
+**esraaa-b/esraaa-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Bridge the gap between Artificial Intelligence and real-world problem solving
+Here are some ideas to get you started:
 
-Grow as a professional software engineer and AI practitioner
-
-📫 Contact
-💼 GitHub: You are here
-
-📧 Open to collaboration on AI, web, and academic projects
-
-⭐ Always motivated to learn, build, and innovate with AI.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
